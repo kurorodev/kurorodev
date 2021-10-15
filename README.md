@@ -7,9 +7,7 @@ My name is Danya and I'm a and Front-end Web developer. I'm from Russia, living 
 ### 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=5194f0&bgcolor=110d17)
-![](https://img.shields.io/badge/Mobile-Android-informational?style=flat-square&logo=Android&logoColor=white&color=#00FF00&bgcolor=#00FF00)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=#FFFF00&color=#FFFF00)
 
 ### 📈 GitHub Stats
 

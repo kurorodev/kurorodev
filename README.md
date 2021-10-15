@@ -16,8 +16,8 @@ My name is Danya and I'm a and Front-end Web developer. I'm from Russia, living 
 <p align="center">
   <table>
   <tr>
-      <td><img align="center"  src="https://github-readme-stats.vercel.app/api?username=redhead1999&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="My Github Stats"></td>
-      <td><img align ="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redhead1999&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
+      <td><img align="center"  src="https://github-readme-stats.vercel.app/api?username=kurorodev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="My Github Stats"></td>
+      <td><img align ="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurorodev&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
   </tr>   
 </table>
 </p>

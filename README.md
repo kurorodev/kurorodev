@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/redhead1999/redhead1999/main/wave.gif" width="25px"> Hi there! 
 
 
-My name is Danya and I'm a Mobile and Front-end Web developer. I'm from Russia, living in Samara and currently study!
+young coder :)
 
 
 ### 🔧 Technologies & Tools

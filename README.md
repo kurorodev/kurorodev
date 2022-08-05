@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/redhead1999/redhead1999/main/wave.gif" width="25px"> Hi there! 
+## <img src="https://raw.githubusercontent.com/redhead1999/redhead1999/main/wave.gif" width="25px"> wassup homies 
 
 
 young coder :)
